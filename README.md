@@ -1,7 +1,7 @@
-# TinyCircuits Whisker NFC Reader
+# TinyCircuits Wireling NFC Reader
 # AST1033 Rev1
 
-The design files are located under design_files/ for the TinyCircuits AST1033 Rev 1 PCB. This is a whisker board which features the MFRC522 RFID Reader and is designed to communicate with ISO/IEC 14443 A/MIFARE cards and transponders.
+The design files are located under design_files/ for the TinyCircuits AST1033 Rev 1 PCB. This is a Wireling board which features the MFRC522 RFID Reader and is designed to communicate with ISO/IEC 14443 A/MIFARE cards and transponders.
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
